@@ -2,7 +2,7 @@ development:
   adapter: postgresql
   database: nathan_development
   encoding: unicode
-  user: spree2
+  user: nathan
   host: localhost
   pool: 5
   timeout: 5000
@@ -12,7 +12,7 @@ test:
   adapter: postgresql
   database: nathan_test
   encoding: unicode
-  user: spree2
+  user: nathan
   host: localhost
   pool: 5
   timeout: 5000
